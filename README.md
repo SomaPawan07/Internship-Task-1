@@ -15,7 +15,7 @@ This project demonstrates how to clean and prepare a raw dataset using Python (p
 ## Files Included
 - `data_cleaning.ipynb` — Code used for cleaning.
 - `marketing_campaign.csv` — Original dataset.
-- `cleaned_data.csv` — Cleaned output dataset.
+- `cleaned_data.xlsx` — Cleaned output dataset.
 
 ## Tools Used
 - Python 3
